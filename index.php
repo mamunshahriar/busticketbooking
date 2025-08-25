@@ -60,7 +60,7 @@
     <div class="team-card"><strong>Habiba Akter</strong><span>ID: 232002268</span></div>
     <div class="team-card"><strong>Meherin Afrin Muna</strong><span>ID: 232002149</span></div>
     <div class="team-card"><strong>Jannatul Mawa Sriti</strong><span>ID: 232002070</span></div>
-    <div class="team-card"><strong>Nazmonnshar</strong><span>ID: 223002001</span></div>
+    <div class="team-card"><strong>Nazmonnahar</strong><span>ID: 223002001</span></div>
   </div>
 </div>
 
